@@ -1,3 +1,4 @@
+# vue+docker+jenkins 自动化部署
 # vueclidemoapp
 
 ## Project setup
@@ -14,6 +15,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
