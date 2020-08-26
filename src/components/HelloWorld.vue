@@ -7,7 +7,7 @@
 <script lang="ts">
 // @ts-nocheck
 import Vue from 'vue'
-import { axios } from 'axios'
+import axios from 'axios'
 export default Vue.extend({
     name: 'HelloWorld',
     props: {
