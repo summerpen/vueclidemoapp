@@ -22,7 +22,7 @@ export default Vue.extend({
                 console.log(res)
             })
             .catch((err) => {
-                throw new Error('err')
+                console.error(err)
             })
     },
 })
